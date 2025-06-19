@@ -1,6 +1,9 @@
 
 # Vis-Assist: Computer Vision and Haptic Feedback Based Wearable Assistive Device for Visually Impaired
 
+> 📰 This project is based on the paper published in *Journal of Multimodal User Interfaces (JMUI)*:  
+> [Vis-Assist: A Wearable Visual Assistive System with Haptic Feedback for Object Detection and Localization](https://link.springer.com/article/10.1007/s12193-025-00452-5)
+
 ![Graphical Abstract](Figures/Graphical_Abstract.png)
 
 **Vis-Assist** is a low-cost, wearable visual assistive device designed to enhance the daily mobility and safety of visually impaired individuals. It integrates object detection, distance estimation, and real-time **haptic feedback** using a compact, self-contained computational unit — eliminating the need for external servers.
@@ -47,7 +50,7 @@ Only the changes are provided in the form of a unified `diff` patch to comply wi
 
 ### 📁 Patch File
 
-Download or view the patch file: [`yolov7_patch.diff`](./yolov7_patch.diff)
+Download or view the patch file: [`vis-assist_yolov7_patch.diff`](./vis-assist_yolov7_patch.diff)
 
 ---
 
